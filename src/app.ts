@@ -21,7 +21,6 @@ class App {
     }
 
     private mountRoutes() {
-        console.log(this.basePath);
         this.express.use(`${this.basePath}/user`, userRouter);
     }
 
