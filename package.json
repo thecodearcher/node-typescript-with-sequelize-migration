@@ -13,8 +13,8 @@
   "author": "Brian Iyoha",
   "license": "ISC",
   "dependencies": {
-    "@hapi/joi": "^16.1.7",
-    "@types/hapi__joi": "^16.0.1",
+    "@hapi/joi": "^16.1.8",
+    "@types/hapi__joi": "^16.0.9",
     "app-root-path": "^2.2.1",
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
@@ -22,7 +22,7 @@
     "lodash": "^4.17.15",
     "morgan": "^1.9.1",
     "mysql2": "^1.7.0",
-    "sequelize": "^5.19.6",
+    "sequelize": "^5.21.3",
     "sequelize-cli": "^5.5.1",
     "tslib": "^1.10.0",
     "winston": "^3.2.1"
@@ -31,12 +31,12 @@
     "@types/app-root-path": "^1.2.4",
     "@types/cors": "^2.8.6",
     "@types/dotenv": "^6.1.1",
-    "@types/express": "^4.17.1",
-    "@types/lodash": "^4.14.144",
+    "@types/express": "^4.17.2",
+    "@types/lodash": "^4.14.149",
     "@types/morgan": "^1.7.37",
-    "@types/node": "^10.14.21",
-    "nodemon": "^1.19.3",
-    "tslint": "^5.20.0",
-    "typescript": "^3.6.4"
+    "@types/node": "^10.17.14",
+    "nodemon": "^1.19.4",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.5"
   }
 }
